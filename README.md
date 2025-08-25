@@ -1,4 +1,4 @@
-# ☕ Aprendendo Java  
+# Aprendendo Java  
 
 Repositório criado para registrar meus estudos em **Java**.  
 Aqui você encontrará exercícios, exemplos práticos, anotações e pequenos projetos desenvolvidos durante minha jornada de aprendizado da linguagem, enquanto curso **Análise e Desenvolvimento de Sistemas**.  
